@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+::selection{
+    color: rgb(0, 4, 255);
+    background-color: rgb(159, 201, 164);
+}
+*{box-sizing: border-box;}
+.frq{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
